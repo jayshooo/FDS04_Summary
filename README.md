@@ -17,3 +17,11 @@ FDS 4기 분들이 매일 공부한 내용을 Markdown으로 정리해서 올리
 > - [0524](./README/0524.md) | asset 추출, chrome workspace, RWD 제작시 고려사항
 > - [0526](./README/0526.md) | Sass 단축표기법, VS code snippets 설정법, Sass-doc, Susy사용법
 > - [0529](./README/0529.md) | JavaScript 문법과 데이터 유형
+> - [0530](./README/0530.md) | Javascript 기초+
+> - [0531](./README/0531.md) | Javascript 데이터 연산자, 타입 검증, 문(Statement)
+> - [0602](./README/0602.md) | for in, for of, error handling, control flow
+> - [0605](./README/0605.md) | 함수, this 컨텍스트, 함수 프로토타입 객체, Arguments/Parameters, 재귀함수/팩토리얼 함수
+> - [0607](./README/0607.md) | 즉시실행 함수(IIFE), 모듈 패턴, 클로저
+> - [0609](./README/0609.md) | 엄격(strict) 모드, 사용자 정의 객체 생성자 함수, 서버에서 파일 병합시 IIFE 패턴 사용시 주의할 점, BOM, DOM(Lv0, Lv1, Lv2)
+> - [0612](./README/0612.md) | DOM
+> - [0613](./README/0613.md) | 이벤트 핸들링, this, 정규식, DOM methods
