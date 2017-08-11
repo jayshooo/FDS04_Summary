@@ -39,3 +39,14 @@ FDS 4기 분들이 매일 공부한 내용을 Markdown으로 정리해서 올리
 > - [0711](./README/0711.md) | package.json, CDN, PUG, arrow(=>), 메소드 체이닝, jQuery Method
 > - [0712](./README/0712.md) | jQuery, pug, ES6(class, arrow, template)
 > - [0713](./README/0713.md) | Gulp 특강
+> - [0714](./README/0714.md) | jQuery plug-in 제작/사용, jQuery 객체 속성(메서드) 확장, Touch Event, Mouse Event
+> - [0717](./README/0717.md) | 백엔드의 이해
+> - [0718](./README/0718.md) | Vue.js 다른 프레임워크와의 비교, 가상 DOM ...
+> - [0719](./README/0719.md) | Vue.js (인스턴스, 템플릿, 디렉티브, 데이터 바인딩, 라이프 사이클 훅, 반응형 시스템, 이벤트 핸들링)
+> - [0720](./README/0720.md) | Webpack 특강
+> - [0721](./README/0721.md) | Vue.js (이벤트 수식어, v-bind 동적 attribute 바인딩, 계산된 속성)
+> - [0724](./README/0724.md) | Computed Setter, Watch, vm.$watch, Array와 Object 메서드
+> - [0725](./README/0725.md) | Form Input Binding, Component, slot, Is...
+> - [0726](./README/0726.md) | 중첩된 컴포넌트간 통신(props, custom event), 글로벌 이벤트 버스, slot(named, scoped)
+> - 0727
+> - [0728](./README/0728.md) | keep-alive, vue-transition…….
